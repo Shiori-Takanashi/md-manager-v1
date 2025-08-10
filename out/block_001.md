@@ -1,4 +1,3 @@
----
 title: Python_Foundation_
 keyword:
 created: 2025-08-03 03:24
@@ -11,4 +10,3 @@ identify:
 type:
 role:
 order:
----
